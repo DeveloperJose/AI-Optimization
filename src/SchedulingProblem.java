@@ -11,7 +11,7 @@ public class SchedulingProblem {
   ArrayList<Room> rooms;
   ArrayList<Course> courses;
 
-  Random random;
+  public Random random;
 
   SchedulingProblem(long seed) {
     if (seed > 0) {
