@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-
         int nBuildings = 0;
         int nRooms = 0;
         int nCourses = 0;
